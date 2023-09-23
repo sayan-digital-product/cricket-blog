@@ -1,0 +1,7 @@
+.carouselContainer {
+    height: 55vh;
+}
+a.textColor, svg.textColor {
+    color: var(--royal-blue-hex);
+    text-decoration-line: none;
+}

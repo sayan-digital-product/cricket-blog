@@ -1,0 +1,51 @@
+.footerContainer{
+    border-top: 1px solid #222;
+    height: 6rem;
+    bottom: 0;
+    width: 100%;
+    background: var(--royal-blue-hex);
+    color: var(--secondary-text);
+}
+
+
+.pageContainer {
+    position: relative;
+}
+
+.homeBackground {
+    /* background: -webkit-linear-gradient(360deg, var(--gray-hex) 35%, var(--cameo-hex) 55%); */
+    min-height: calc(100vh - 11rem);
+}
+
+.applicationNavcontainer {
+    border-top: 1px solid #222;
+    height: 5rem;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background: var(--royal-blue-hex);
+    z-index: 10;
+    align-content: center;
+    justify-items: center;
+}
+
+.profileContainer{
+    display: grid;
+    /* padding-left: 1rem;
+    padding-right: 1rem; */
+}
+
+.nameFont {
+    font-family: CalibreBold;
+    font-size: 4rem;
+}
+
+.tagFont{
+    font-family: CalibreBold;
+    font-size: 2rem;
+}
+  
+.tagLineStyle{
+    position: relative;
+    top: 20%;
+}

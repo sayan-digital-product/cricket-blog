@@ -1,0 +1,7 @@
+.formContainer{
+    min-height: 75vh;
+}
+
+.formWrapper {
+    box-sizing: border-box;
+}

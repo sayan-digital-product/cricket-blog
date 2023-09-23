@@ -1,0 +1,95 @@
+
+
+@font-face {
+	font-family: CalibreBold;
+	src: url('/fonts/CalibreBold.otf');
+}
+
+@font-face {
+	font-family: CalibreSemibold;
+	src: url('/fonts/CalibreSemibold.otf');
+}
+
+@font-face {
+	font-family: CalibreRegular;
+	src: url('/fonts/CalibreRegular.otf');
+}
+ 
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --white-text-hex:  #f1f1f1;
+  --background-start-rgb: #F3EFE0;
+  --background-hex: #EFEFEF;
+  --secondary-text: #f8f8f8;
+  --light-green-rgb: #57f71e;
+  --dark-color-hex: #4D455D;
+  --navbar-hex: #004953;
+  --color-primary: 255 115 179;
+  --border-color-hex: rgb(248, 224, 199);
+
+  --midnight-shadow-hex: #525e75;
+  --cameo-hex: #f1ddbf;
+  --cameo-light-hex: #f7ebd9;
+  --yucca-hex: #78938a;
+  --dark-sea-green-hex: #92ba92;
+  --gray-hex: #ecebee;
+  --royal-blue-hex: #070A52;
+  --background-plain-hex: #FFFFFF;
+  --frost-fairy-hex: #dfe9f8;
+  --pegasus-50-hex: #e8eae3;
+
+
+
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: #E96479;
+    --background-end-rgb: #4D455D;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  font-family: CalibreRegular;
+  background: var(--pegasus-50-hex);
+}
+
+a.nav-link:hover{
+  color: var(--light-green-rgb);
+}
+
+.secondary-text {
+  color: var(--dark-color-hex);
+}
+
+.contrast-plain-text {
+  color: var(--white-text-hex);
+}
+
+.content-summary {
+  overflow: hidden;
+  /* white-space: nowrap; */
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+.minimum-height{
+  min-height: 85vh;
+}
+
+.generic-border {
+  border-width: 2px;
+  border-style: solid;
+  border-color: var(--border-color-hex);
+}
+
+.active button {
+  background-color: #968344;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

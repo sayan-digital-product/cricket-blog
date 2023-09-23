@@ -1,0 +1,42 @@
+{
+  "name": "tech-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.1",
+    "@types/node": "18.15.13",
+    "@types/react": "18.0.38",
+    "@types/react-dom": "18.0.11",
+    "autoprefixer": "10.4.14",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.1",
+    "gray-matter": "^4.0.3",
+    "imagekitio-react": "^2.0.0",
+    "next": "13.3.1",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-responsive-carousel": "^3.2.23",
+    "react-scroll-parallax": "^3.4.2",
+    "reactstrap": "^9.1.9",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.2",
+    "tailwindcss": "3.3.1",
+    "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10"
+  }
+}
