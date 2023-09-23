@@ -2,6 +2,9 @@
 title: 'Asia cup triumph'
 date: '2023-09-20'
 id: Sayan Banerjee
+author: Sayan Banerjee
+url: 
+keywords: ["Asia Cup 2023","Asia Cup 2023 Final", "Cricket", "Team India", "India vs Sri Lanka","Cricket World Cup 2023"]
 ---
 
 ![Asia cup champion](https://ik.imagekit.io/gglohxep8/images/Asiacup.jpeg?updatedAt=1695110655424)  

@@ -7,6 +7,7 @@ import CardMedia from '@mui/material/CardMedia';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 import CardActions from '@mui/material/CardActions';
+import SEO from '@santech/core/seo/seo';
 
 export async function getStaticProps({ params }:{params: any}) {
   const postData = await getPostData(params.id);
@@ -27,22 +28,22 @@ export async function getStaticPaths() {
 
 export default function Post({ postData }: {postData: PostModel}) {
     return (
-      <Layout>
+      <><SEO seoData={postData}/><Layout>
         <>
           <Card elevation={0} className='minimum-height'>
-                <CardContent className='m-8'>
-                  <Typography gutterBottom variant="h5" component="div">
-                    {postData.title}
-                  </Typography>
-                  <Typography gutterBottom variant='h6' component="div">
-                    {postData.date}
-                  </Typography>
-                  <section color="text.secondary">
-                    <article className="prose lg:prose-lg ul:prose-ul li:prose-li" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-                  </section>
-                </CardContent>
+            <CardContent className='m-8'>
+              <Typography gutterBottom variant="h5" component="div">
+                {postData.title}
+              </Typography>
+              <Typography gutterBottom variant='h6' component="div">
+                {postData.date}
+              </Typography>
+              <section color="text.secondary">
+                <article className="prose lg:prose-lg ul:prose-ul li:prose-li" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+              </section>
+            </CardContent>
           </Card>
         </>
-      </Layout>
+      </Layout></>
     );
 }
