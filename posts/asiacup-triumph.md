@@ -3,7 +3,8 @@ title: 'Asia cup triumph'
 date: '2023-09-20'
 id: Sayan Banerjee
 author: Sayan Banerjee
-url: 
+url: https://cricdaily.co.in/blog/post/asiacup-triumph
+description: This post talks about team India's successful Asia Cup 2023 campaign and build up to Cricket World Cup 2023
 keywords: ["Asia Cup 2023","Asia Cup 2023 Final", "Cricket", "Team India", "India vs Sri Lanka","Cricket World Cup 2023"]
 ---
 
