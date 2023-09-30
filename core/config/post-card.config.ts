@@ -29,11 +29,11 @@ export const records = [
     },
     {
         key: 2,
-        subTitle: "Embracing Continuous Learning: Why IT Professionals Should Be Lifelong Learners",
+        subTitle: "Is India Ready For CWC-2023",
         lineClamp: true,
-        imageUrl: "https://ik.imagekit.io/gglohxep8/images/seo.jpg?updatedAt=1682626221504",
+        imageUrl: "https://ik.imagekit.io/gglohxep8/images/icc-cwc-1-1_UNOj2ZOuQ?updatedAt=1696103043251",
         description: [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque"
+            "ODI Cricket World Cup is knocking at the door now. The anticipation and expectation from Team India are palpable, as cricket enthusiasts are gearing up for the Tournament. Within next one and half months all will come to know whether are we lifting the trophy for the third time or not. It is going to be an exciting month - a month and a half coming up for viewers."
         ],
         cardProperties: {
             elevation: 0,
@@ -46,12 +46,12 @@ export const records = [
         },
         buttons: [
             {
-                name: 'coming soon',
+                name: 'read more',
                 variant: 'text',
                 size: 'small',
                 backgroundColor: 'text-gremlin-200',
                 hover: 'hover: underline-offset-4',
-                linkUrl: "",
+                linkUrl: "/blog/post/india-team-cwc2023",
             }
         ]
     },

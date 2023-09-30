@@ -31,7 +31,7 @@ export default function Post({ postData }: {postData: PostModel}) {
       <><SEO seoData={postData}/><Layout>
         <>
           <Card elevation={0} className='minimum-height'>
-            <CardContent className='m-8'>
+            <CardContent className='m-4'>
               <Typography gutterBottom variant="h5" component="div">
                 {postData.title}
               </Typography>
@@ -39,7 +39,7 @@ export default function Post({ postData }: {postData: PostModel}) {
                 {postData.date}
               </Typography>
               <section color="text.secondary">
-                <article className="prose lg:prose-lg ul:prose-ul li:prose-li" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+                <article className="prose lg:prose-lg ul:prose-ul li:prose-li img:prose-img table:prose-table tr:prose-tr th:prose-th td:prose-td max-w-none" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
               </section>
             </CardContent>
           </Card>

@@ -8,8 +8,7 @@ description: This post talks about team India's successful Asia Cup 2023 campaig
 keywords: ["Asia Cup 2023","Asia Cup 2023 Final", "Cricket", "Team India", "India vs Sri Lanka","Cricket World Cup 2023"]
 ---
 
-![Asia cup champion](https://ik.imagekit.io/gglohxep8/images/Asiacup.jpeg?updatedAt=1695110655424)  
-
+![Asia cup champion](https://ik.imagekit.io/gglohxep8/images/Asiacup.jpeg?updatedAt=1695110655424)
 
 ## India's Asia cup victory and build up to world cup 2023 campaign
 
