@@ -71,5 +71,5 @@ Few areas India would love to tidy up a bit before the main tournament starts,
 
 ### Conclusion 
 
-India's chances are bright in this world cup, considering home support and playing in familiar conditions.Now time will tell us if India can go on and the lift the trophy to fulfill dreams of billion fans or not.
+India's chances are bright in this world cup, considering home support and playing in familiar conditions.Now time will tell us if India can go on and lift the trophy to fulfill dreams of billion fans or not.
 
