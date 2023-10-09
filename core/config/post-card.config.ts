@@ -74,12 +74,12 @@ export const records = [
         },
         buttons: [
             {
-                name: 'coming soon',
+                name: 'read more',
                 variant: 'text',
                 size: 'small',
                 backgroundColor: 'text-gremlin-200',
                 hover: 'hover: underline-offset-4',
-                linkUrl: "",
+                linkUrl: "/blog/post/indvsaus",
             }
         ]
     },

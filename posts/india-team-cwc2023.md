@@ -14,13 +14,13 @@ India is going to start their campaign against Australia on 8th of October in M.
 
 | Date | Opponent | Venue |
 |:----|:-----|:----|
-| Sun 08 October  14:00 (YOUR TIME)| AUSTRALIA  | MA Chidambaram Stadium, Chennai|             |
+| Sun 08 October  14:00 (YOUR TIME)| AUSTRALIA  | MA Chidambaram Stadium, Chennai|
 | Wed 11 October  14:00 (YOUR TIME)| AFGHANISTAN| MA Chidambaram Stadium, Chennai| 
 | Sat 14 October  14:00 (YOUR TIME)| PAKISTAN   | Narendra Modi Stadium, Ahmedabad | 
 | Thu 19 October  14:00 (YOUR TIME)| BANGLADESH | MCA International Stadium, Pune| 
 | Sun 22 October  14:00 (YOUR TIME)| NEW ZEALAND| HPCA Stadium, Dharamsala       | 
 | Sun 29 October  14:00 (YOUR TIME)| ENGLAND    | BRSABVE Cricket Stadium, Lucknow | 
-| Thu 02 November 14:00 (YOUR TIME)| SRI LANKA  | Wankhede Stadium, Mumbai       | 
+| Thu 02 November 14:00 (YOUR TIME)| SRI LANKA  | Wankhede Stadium, Mumbai       |
 | Sun 05 November 14:00 (YOUR TIME)| SOUTH AFRICA | Eden Gardens, Kolkata          | 
 | Sun 12 November 14:00 (YOUR TIME)| NETHERLANDS| M.Chinnaswamy Stadium, Bengaluru | 
 

@@ -23,6 +23,7 @@ export default function Footer() {
                             size="large"
                             aria-label="Twitter"
                             color="inherit"
+                            href="https://twitter.com/San0387"
                             >
                             <Twitter />
                             </IconButton>
@@ -30,6 +31,7 @@ export default function Footer() {
                             size="large"
                             aria-label="Facebook"
                             color="inherit"
+                            href=""
                             >
                             <Facebook />
                             </IconButton>
